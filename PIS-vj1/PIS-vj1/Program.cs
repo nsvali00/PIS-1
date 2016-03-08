@@ -10,6 +10,7 @@ namespace PIS_vj1
         static void Main(string[] args)
         {
             Console.WriteLine("save as new revision");
+            Console.WriteLine("svasvasva");
         }
         
     }
